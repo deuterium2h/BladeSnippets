@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+@yield('${1}')
+]]></content>
+    <tabTrigger>@yield</tabTrigger>
+    <scope>text.html</scope>
+    <description>Blade @yield</description>
+</snippet>

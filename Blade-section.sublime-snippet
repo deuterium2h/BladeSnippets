@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+@section('${1}')
+	${2}
+@endsection
+]]></content>
+    <tabTrigger>@sec</tabTrigger>
+    <scope>text.html</scope>
+    <description>Blade @section</description>
+</snippet>
